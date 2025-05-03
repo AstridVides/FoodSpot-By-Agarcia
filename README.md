@@ -1,1 +1,1 @@
-# FoodSpot-By-Agarcia
+# FoodSPot-By-Agarcia
