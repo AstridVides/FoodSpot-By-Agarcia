@@ -57,7 +57,7 @@ val restaurant = listOf(
     ),Restaurant(
         id = 3,
         name = "Taquitos",
-        description = "Los mejores taquitos del universo",
+        description = "Un taco bien hecho es un poema envuelto en tortilla.",
         imageUrl = "https://www.pequerecetas.com/wp-content/uploads/2020/10/tacos-mexicanos.jpg",
         categories = listOf("Comida Mexicana"),
         menu = listOf(
@@ -85,7 +85,7 @@ val restaurant = listOf(
     Restaurant(
         id = 4,
         name = "Tortas",
-        description = "Las mejores tortas del universo",
+        description = "Una torta deliciosa es como un abrazo de sabor.",
         imageUrl = "https://mexicorutamagica.mx/wp-content/uploads/2020/03/1434.jpg",
         categories = listOf("Comida Mexicana"),
         menu = listOf(
@@ -111,8 +111,8 @@ val restaurant = listOf(
     ),
     Restaurant(
         id = 5,
-        name = "Pastarias",
-        description = "Las mejores pastas del universo",
+        name = "PastariasClub",
+        description = "La pasta es capaz de hacer cantar a tu paladar.",
         imageUrl = "https://recetasdecocina.elmundo.es/wp-content/uploads/2025/01/espaguetis-a-la-napolitana-1024x683.jpg",
         categories = listOf("Comida Italiana"),
         menu = listOf(
@@ -139,7 +139,7 @@ val restaurant = listOf(
     Restaurant(
         id = 6,
         name = "Sushi Rolls",
-        description = "Los mejores sushis del universo",
+        description = "Cada bocado de sushi es un pequeño viaje al corazón de Japón.",
         imageUrl =  "https://images.squarespace-cdn.com/content/v1/67d1d0d895d7ed34764032b3/08f692c4-edb6-4e1f-8d12-9967f17588bd/Adobe+Express+-+file.jpg",
         categories = listOf("Comida asiática"),
         menu = listOf(
@@ -165,7 +165,7 @@ val restaurant = listOf(
     ),Restaurant(
         id = 7,
         name = "Banbon",
-        description = "Los mejores postres del universo",
+        description = "Los postres son el abrazo dulce que tu paladar merece.",
         imageUrl = "https://www.paulinacocina.net/wp-content/uploads/2024/01/receta-de-postre-de-maracuya-Paulina-Cocina-Recetas-1722251880-1200x676.jpg",
         categories = listOf("Postres y Dulces"),
         menu = listOf(
@@ -192,7 +192,7 @@ val restaurant = listOf(
     Restaurant(
         id = 8,
         name = "BubblesKING",
-        description = "Bubble Tea, una bebida refrescante y divertida",
+        description = "Bubble Tea, una bebida refrescante y divertida.",
         imageUrl = "https://veggiefestchicago.org/wp-content/uploads/2021/05/21-bumble.jpg",
         categories = listOf("Bebidas"),
         menu = listOf(
